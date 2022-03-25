@@ -1,1 +1,6 @@
 theme: jekyll-theme-tactile
+title: InterPARES TrustAI Workshop
+description: Deep Learning Workshop by InterPARES Trust AI
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-slate
