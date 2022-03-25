@@ -1,4 +1,4 @@
-## Introduction to Deep Learning
+## Introduction to Deep Learning Workshop (March 31, 2022)
 
 | No. | Topic | Tutorial | Video |
 |---|---|---|---|
