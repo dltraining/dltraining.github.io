@@ -8,4 +8,4 @@
 | 4 | Convolutional Neural Networks | [notebook](https://github.com/UBC-NLP/DeepLearningWorkshop/blob/main/CNN.ipynb) | [video](https://www.youtube.com) |
 | 5 | Introduction to Transformer | [notebook](https://github.com/UBC-NLP/DeepLearningWorkshop/blob/main/transformer_tutorial.ipynb) | [video](https://www.youtube.com) |
 
-Intructor: Muhammad Abdul-Mageed, Peter Sullivan, Ganesh Jawahar
+Instructor: Muhammad Abdul-Mageed, Peter Sullivan, Ganesh Jawahar
