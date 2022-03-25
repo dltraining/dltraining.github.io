@@ -1,4 +1,4 @@
-## Welcome to Inter PARES Trust AI Workshop
+## Introduction to Deep Learning
 
 | No. | Topic | Tutorial | Video |
 |---|---|---|---|
